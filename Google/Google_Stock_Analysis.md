@@ -1,11 +1,11 @@
 
 # A Comprehensive Analysis of Google Stock (GOOGL) Performance and Market Behavior
 
-**Author:** Anani A. Assoutovi
+**Author:** Anani A. Assoutovi  
 **Affiliation:** Independent Researcher / Data Scientist  
-**Email:** booking.helices4s@icloud.com
-**LinkedIn:** www.linkedin.com/in/ananiassoutovi
-**Date:** May 12, 2025
+**Email:** booking.helices4s@icloud.com  
+**LinkedIn:** www.linkedin.com/in/ananiassoutovi  
+**Date:** May 12, 2025  
 
 ## Abstract
 This research analyzes the historical stock data of Google (GOOGL) from 2004 to the present. Utilizing technical analysis tools, statistical summaries, and anomaly detection techniques, the paper explores trends, volatility, indicators, and events that have shaped Google's market performance. The analysis is based on a dataset from Kaggle and employs Python-based data science techniques.
