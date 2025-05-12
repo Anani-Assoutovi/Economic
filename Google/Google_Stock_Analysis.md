@@ -1,6 +1,12 @@
 
 # A Comprehensive Analysis of Google Stock (GOOGL) Performance and Market Behavior
 
+**Author:** Anani A. Assoutovi
+**Affiliation:** Independent Researcher / Data Scientist  
+**Email:** booking.helices4s@icloud.com
+**LinkedIn:** www.linkedin.com/in/ananiassoutovi
+**Date:** May 12, 2025
+
 ## Abstract
 This research analyzes the historical stock data of Google (GOOGL) from 2004 to the present. Utilizing technical analysis tools, statistical summaries, and anomaly detection techniques, the paper explores trends, volatility, indicators, and events that have shaped Google's market performance. The analysis is based on a dataset from Kaggle and employs Python-based data science techniques.
 
@@ -71,7 +77,7 @@ Using return thresholds beyond ±2 standard deviations:
 - Notable spikes: Nov 11, 2004 (+30.27%)
 - Notable crashes: Jul 19, 2022 (−95.08%)
 
-These anomalies were linked to global events and quarterly earnings reactions.
+These anomalies were linked to [global events](https://theweek.com/briefing/daily-briefing/1015227/10-things-you-need-to-know-today-july-19-2022) and quarterly earnings reactions.
 
 ---
 
